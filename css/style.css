@@ -915,7 +915,7 @@ a.totop-link {
    #Last Screen
    ========================================================================== */
 .introduction-end {
-    background: url(../images/profile-big.jpg)no-repeat right top;
+    background: url(../img/profile-big.jpg)no-repeat right top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

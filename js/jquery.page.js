@@ -93,8 +93,8 @@ var pagetitle=$(document).find("title").text();
 					$elScroller.stop().animate( param, animation.speed, animation.easing, function() {
 						
 						// active class for selected chapter
-						///$articles.removeClass( 'content-active' );
-						//$article.addClass( 'content-active' );
+						// $articles.removeClass( 'content-active' );
+						// $article.addClass( 'content-active' );
 						
 						
 					} );
